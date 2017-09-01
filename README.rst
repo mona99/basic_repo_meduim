@@ -6,23 +6,31 @@ Circle area
 -----------
 we will ask the user to enter:
 
--r: raduis
--c: circumference 
+.. code:: bash
+   
+    -r: raduis
+    -c: circumference 
 
 then the program will return:
 
--a = area = A = 2pir2
+.. code:: bash
+    
+    -a = area = A = 2pir2
 
 square area
 -----------
  
 we will as the user to enter:
 
--d = the lenghth of either diagonal 
+.. code:: bash
+
+    -d = the lenghth of either diagonal 
 
 the the program will return:
 
--a = area= d2/2
+.. code:: bash
+
+    -a = area= d2/2
 
 To run pylint
 -------------
